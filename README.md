@@ -24,7 +24,8 @@ Machine learning can be used to predict credit risk. By using this, it will not 
 
 ### Naïve Random Oversampling
 
-![Classification_Report_Naive_Random_Oversampling]()
+![Classification_Report_Naive_Random_Oversampling]
+(https://github.com/RabidZippers/Credit_Risk_Analysis/blob/main/Challenge/Resources/Naive_Random_Oversampling.png)
 
 * Balanced Accuracy Score: 65.03%
 * Precision High Risk: 1%
@@ -42,7 +43,7 @@ Machine learning can be used to predict credit risk. By using this, it will not 
 
 ### SMOTE Oversampling
 
-![Classification_Report_SMOTE_Oversampling](https://github.com/cmmgw/Credit_Risk_Analysis/blob/main/Resources/Classification_Report_SMOTE_Oversampling.JPG)
+![Classification_Report_SMOTE_Oversampling](https://github.com/RabidZippers/Credit_Risk_Analysis/blob/main/Challenge/Resources/SMOTE_Oversampling.png)
 
 * Balanced Accuracy Score: 66.21%
 * Precision High Risk: 1%
@@ -60,7 +61,7 @@ Machine learning can be used to predict credit risk. By using this, it will not 
 
 ### Cluster Centroids Undersampling 
 
-![Classification_Report_Cluster_Centroids_Undersampling](https://github.com/cmmgw/Credit_Risk_Analysis/blob/main/Resources/Classification_Report_Cluster_Centroids_Undersampling.JPG)
+![Classification_Report_Cluster_Centroids_Undersampling](https://github.com/RabidZippers/Credit_Risk_Analysis/blob/main/Challenge/Resources/Cluster_Centroids_Undersampling.png)
 
 * Balanced Accuracy Score: 54.42%
 * Precision High Risk: 1%
@@ -78,7 +79,7 @@ Machine learning can be used to predict credit risk. By using this, it will not 
 
 ### SMOTEENN Combination (Over and Under) Sampling
 
-![Classification_Report_SMOTEENN_Combination_Sampling](https://github.com/cmmgw/Credit_Risk_Analysis/blob/main/Resources/Classification_Report_SMOTEENN_Combination_Sampling.JPG)
+![Classification_Report_SMOTEENN_Combination_Sampling](https://github.com/RabidZippers/Credit_Risk_Analysis/blob/main/Challenge/Resources/SMOTEENN_Combination_Sampling.png)
 
 * Balanced Accuracy Score: 64.61%
 * Precision High Risk: 1%
@@ -96,7 +97,7 @@ Machine learning can be used to predict credit risk. By using this, it will not 
 
 ### Balanced Random Forest Classifier
 
-![Classification_Report_Balanced_Random_Forest_Classifier](https://github.com/cmmgw/Credit_Risk_Analysis/blob/main/Resources/Classification_Report_Balanced_Random_Forest_Classifier.JPG)
+![Classification_Report_Balanced_Random_Forest_Classifier](https://github.com/RabidZippers/Credit_Risk_Analysis/blob/main/Challenge/Resources/Balanced_Random_Forest.png)
 
 * Balanced Accuracy Score: 78.85%
 * Precision High Risk: 3%
@@ -114,7 +115,7 @@ Machine learning can be used to predict credit risk. By using this, it will not 
 
 ### Easy Ensemble ADABoost Classifier  
 
-![Classification_Report_Easy_Ensemble_ADABoost_Classifier](https://github.com/cmmgw/Credit_Risk_Analysis/blob/main/Resources/Classification_Report_Easy_Ensemble_ADABoost_Classifier.JPG)
+![Classification_Report_Easy_Ensemble_ADABoost_Classifier](https://github.com/RabidZippers/Credit_Risk_Analysis/blob/main/Challenge/Resources/Easy_Ensemble_ADABoost.png)
 
 * Balanced Accuracy Score: 93.16%
 * Precision High Risk: 9%
