@@ -24,8 +24,7 @@ Machine learning can be used to predict credit risk. By using this, it will not 
 
 ### Naïve Random Oversampling
 
-![Classification_Report_Naive_Random_Oversampling]
-(https://github.com/RabidZippers/Credit_Risk_Analysis/blob/main/Challenge/Resources/Naive_Random_Oversampling.png)
+![Classification_Report_Naive_Random_Oversampling](https://github.com/RabidZippers/Credit_Risk_Analysis/blob/main/Challenge/Resources/Naive_Random_Oversampling.png)
 
 * Balanced Accuracy Score: 65.03%
 * Precision High Risk: 1%
