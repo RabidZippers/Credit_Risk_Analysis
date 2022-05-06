@@ -1,7 +1,7 @@
 # Credit Risk Analysis
 
 ## Overview
-Machine learning can be used to predict credit risk. By using this, it will not only provide a quicker but more reliable loan experience. It will also provide more identifications of people who would be good for loans. Credit risk is a unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, different techniques need to be employed to train and evaluate models with unbalanced classes. Numerous supervised machine learning models or algorithms have been built and evaluated to predict credit risk. 
+Machine learning can be used to predict credit risk. By using this, it will not only provide a quicker but more reliable loan experience. It will also provide more identifications of people who would be good for loans. Credit risk is an unbalanced classification problem, as good loans outnumber risky loans. Therefore, different styles need to be employed to train and evaluate models with unbalanced classes. Numerous supervised machine learning models/algorithms have been built and evaluated to predict credit risk. 
 
 ### Supervised Machine Learning Models Utilized:
 * Naïve Random Oversampling
@@ -13,7 +13,7 @@ Machine learning can be used to predict credit risk. By using this, it will not 
 
 ### Resources Utilized to Complete Analysis
 * **Data Sources:** 
-[LoanStats_2019Q1.CSV](https://github.com/cmmgw/Credit_Risk_Analysis/blob/main/Resources/LoanStats_2019Q1.zip) 
+[LoanStats_2019Q1.CSV](https://github.com/RabidZippers/Credit_Risk_Analysis/blob/main/Challenge/Resources/LoanStats_2019Q1.1.zip) 
 
 * **Languages:** Python
 * **Python Dependencies:** numpy, pandas, pathlib, collections, scikit-learn, imbalanced-learn
