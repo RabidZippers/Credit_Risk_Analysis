@@ -29,8 +29,8 @@ Machine learning can be used to predict credit risk. By using this, it will not 
 * Balanced Accuracy Score: 65.03%
 * Precision High Risk: 1%
 * Precision Low Risk: 100%
-* Recall High Risk: 69% 
-* Recall Low Risk: 61%
+* Recall High Risk: 72% 
+* Recall Low Risk: 60%
 
 **Confusion Matrix**
 |             | Predicted True  | Predicted False | 
@@ -83,8 +83,8 @@ Machine learning can be used to predict credit risk. By using this, it will not 
 * Balanced Accuracy Score: 64.61%
 * Precision High Risk: 1%
 * Precision Low Risk: 100%
-* Recall High Risk: 71% 
-* Recall Low Risk: 58%
+* Recall High Risk: 77=% 
+* Recall Low Risk: 57%
 
 **Confusion Matrix**
 |             | Predicted True  | Predicted False | 
@@ -131,7 +131,7 @@ Machine learning can be used to predict credit risk. By using this, it will not 
 
 
 ## Summary
-Numerous machine learning models were utilized to determine which model is the most effective at predicting credit risk. Accuracy, precision and sensitivity can be assessed by reviewing the results of each model. The confusion matrix, collates the results of accuracy,precision and sensitivity and can be calculated as follows: 
+Numerous machine learning models were utilized to determine which model is the most accurate at predicting credit risk. Reviewing each model will provide the results of accuracy, precision, and sensitivity. The confusion matrix, collects and combines the results of accuracy,precision and sensitivity. Which is then calculated as follows: 
 
 **Confusion Matrix**
 |             | Predicted True  | Predicted False | 
@@ -142,6 +142,3 @@ Numerous machine learning models were utilized to determine which model is the m
 * Accuracy = (True Positives (TP) + True Negatives (TN)) / Total
 * Precision = True Positives (TP) / (True Positives (TP) + False Positives (FP))
 * Sensitivity = True Positives (TP) / (True Positives (TP) + False Negatives (FN)) 
-
-
-The analysis highlighted above, indicates that the precision scores for all the models are overfit. A good balance of recall and precision is necessary to have an effective model and most of the models lack this. However, the Easy Ensemble ADABoost Classifier model is recommended for use, due to its high balanced accuracy score, along with its balance of precision and recall scores.
